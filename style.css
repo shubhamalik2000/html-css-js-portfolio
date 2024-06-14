@@ -306,6 +306,7 @@ section {
 .section-container {
   gap: 4rem;
   height: 80%;
+  text-align: justify;
 }
 
 .section__pic-container {
